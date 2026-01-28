@@ -71,3 +71,4 @@ This project exists to demonstrate foundational fintech engineering knowledge, n
 
 This is not a licensed financial system and should not be used in production.
 External bank/provider behavior is simulated for learning purposes.
+

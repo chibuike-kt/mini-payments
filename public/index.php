@@ -136,3 +136,4 @@ $router->add('GET', '/transfers', function () use ($pdo) {
 $router->add('POST', '/provider/transfer_query', fn($body) => $app->providerQueryTransfer($body));
 
 $router->add('POST', '/transfers/poll', fn($body) => $app->pollUnknownTransfers($body));
+// End of file
